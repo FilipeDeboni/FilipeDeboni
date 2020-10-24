@@ -1,4 +1,4 @@
-## Hello 👋 My name is <a style="color:2bbc8a"> Filipe Deboni </a> 
+## Hello 👋 My name is <a style="font-color:2bbc8a;"> Filipe Deboni </a> 
 I'm a Front-End Developer, currently based in São Paulo, Brazil.
 <br />
 <br />
@@ -15,7 +15,7 @@ I'm a Front-End Developer, currently based in São Paulo, Brazil.
 - ⚡ Fun fact: ...
 -->
 
-<h5> Reach me on <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="25" style="vertical-align:top; margin:4px"></a> </h5>
+<h3> Reach me on </h3><a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="25" style="vertical-align:top; margin:4px"></a> 
 
 
 ## &#129520; Languages and Tools
