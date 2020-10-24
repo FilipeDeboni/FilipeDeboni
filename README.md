@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## &#128202; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedeboni&hide=html&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipedeboni&show_icons=true&line_height=27&count_private=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/filipedeboni/ironhack-project-3-petfriendly-front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipedeboni&repo=ironhack-project-3-petfriendly-front&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/filipedeboni/Ironhack-Project-2-Clover-Finance">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipedeboni&repo=Ironhack-Project-2-Clover-Finance&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
