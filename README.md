@@ -1,9 +1,9 @@
-## Hello 👋 My name is Filipe Deboni
+## Hello 👋 my name is Filipe Deboni
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
 ## I'm a Front-End Developer
-currently based in São Paulo, Brazil.
+- 📍 Currently based in São Paulo, Brazil.
 
 <br />
 <a vertical-align="midle">
