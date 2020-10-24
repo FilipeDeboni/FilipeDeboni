@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-filipedeboni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedeboni/)](https://www.linkedin.com/in/filipedeboni/)
 
 ## A Front-End Developer
-- 📍 currently based in São Paulo, Brazil
+- 📍 living in São Paulo, Brazil
 - 🤓 a passionate lifelong lerner
-- 📖 improving my skills on React.JS and Data Structures
+- 📖 currently improving my skills on React.JS and Data Structures
 - 😆 hobbies include traveling, biking, games and design 
 
 ## Languages and Tools
