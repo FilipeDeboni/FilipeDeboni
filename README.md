@@ -33,11 +33,11 @@
 
 ## 📊  GitHub Metrics
 <div align="center">
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedeboni&hide=html&theme=vue" />
+ <a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipedeboni&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Filipe's GitHub Stats" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipedeboni&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Filipe's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedeboni&hide=html&theme=vue" />
 </a>
 </div>
 
