@@ -3,15 +3,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
 ## I am a Front-End Developer
-- 📍 Currently based in São Paulo, Brazil
-- 🤓 A passionate lifelong lerner
-- 📖 Currently improving my skills on React.JS and Data Structures
+- 📍 currently based in São Paulo, Brazil
+- 🤓 a passionate lifelong lerner
+- 📖 improving my skills on React.JS and Data Structures
+- ✉️ Reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
 
-
-<br />
-<a vertical-align="midle">
-Reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
-</a>
 <br/>
 
 
