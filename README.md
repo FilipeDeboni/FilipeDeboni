@@ -29,24 +29,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
-<p align="center">
- <a href="#">
-    <img src="svg/dev/frameworks/react.svg" alt="react.js" style="vertical-align:top; margin:6px 4px">
- </a> 
- <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="node.js" style="vertical-align:top; margin:6px 4px">
-  </a> 
- 
- </p>
 
 ## GitHub Metrics
 <div align="center">
