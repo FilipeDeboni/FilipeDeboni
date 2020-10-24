@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<i class="devicon-git-plain-wordmark"></i>
 
 ## GitHub Stats
 
