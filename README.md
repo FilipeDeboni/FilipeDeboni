@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello 👋 I'm [Filipe Deboni][website] but you can call me Harry 😀
+![](https://www.linkedin.com/in/filipedeboni/) 
+![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
 <!--
 **FilipeDeboni/FilipeDeboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
+
 
 
 
