@@ -2,8 +2,11 @@
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
-## I'm a Front-End Developer
-- 📍 Currently based in São Paulo, Brazil.
+## I am a Front-End Developer
+- 📍 Currently based in São Paulo, Brazil
+- 🤓 A passionate lifelong lerner
+- 📖 Currently improving my skills on React.JS and Data Structures
+
 
 <br />
 <a vertical-align="midle">
