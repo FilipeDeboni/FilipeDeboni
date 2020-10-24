@@ -2,29 +2,14 @@
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
-## I am a Front-End Developer
+## 👨‍💻 I am a Front-End Developer
 - 📍 currently based in São Paulo, Brazil
 - 🤓 a passionate lifelong lerner
 - 📖 improving my skills on React.JS and Data Structures
 - ✉️ Reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
+- 😄 I'm very interested in travel, hiking and games  
 
-<br/>
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-## &#129520; Languages and Tools
+## 🔧 Languages and Tools
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.JS" height="40" style="vertical-align:top">
  &#8287; &#8287; &#8287;
@@ -46,7 +31,7 @@
 
 
 
-## &#127942; GitHub Metrics
+## 📊  GitHub Metrics
 <div align="center">
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedeboni&hide=html&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
