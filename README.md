@@ -9,6 +9,8 @@
 - 📖 currently improving my skills on React.JS and Data Structures
 - 😆 hobbies include traveling, biking, games and design 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Languages and Tools
 
 <p align="center">
