@@ -5,7 +5,7 @@ I'm a Front-End Developer, currently based in São Paulo, Brazil.
 <a vertical-align="midle">
 Reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
 </a>
-[![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
+![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
 
 
