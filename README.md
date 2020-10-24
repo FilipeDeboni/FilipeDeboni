@@ -1,4 +1,4 @@
-## Hello 👋 I'm <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> Filipe Deboni </a> 
+## Hello 👋 I'm <link href="https://www.linkedin.com/in/filipedeboni/" target="_blank"> Filipe Deboni </link> 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
 <!--
