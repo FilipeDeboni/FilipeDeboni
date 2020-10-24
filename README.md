@@ -1,15 +1,20 @@
+<samp>
 ## Hi there 👋 I'm [Filipe Deboni](https://www.linkedin.com/in/filipedeboni/)
+ </samp>
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 [![Linkedin Badge](https://img.shields.io/badge/-filipedeboni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedeboni/)](https://www.linkedin.com/in/filipedeboni/)
 
 ## A Front-End Developer
+<samp>
 - 📍 living in São Paulo, Brazil
 - 🤓 a passionate lifelong lerner
 - 📖 currently improving my skills on React.JS and Data Structures
 - 😆 hobbies include traveling, biking, games and design 
-
+</samp>
+<samp>
 ## Languages and Tools
+</samp>
 
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
