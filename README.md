@@ -2,14 +2,14 @@
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
-## 👨‍💻 I am a Front-End Developer
-- 📍  currently based in São Paulo, Brazil
-- 🤓  a passionate lifelong lerner
-- 📖  improving my skills on React.JS and Data Structures
-- 😆  very interested in subjects like travel, hiking, games and design 
-- ✉️  reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
+## I am a Front-End Developer
+- 📍 currently based in São Paulo, Brazil
+- 🤓 a passionate lifelong lerner
+- 📖 improving my skills on React.JS and Data Structures
+- 😆 very interested in subjects like travel, hiking, games and design 
+- 👨‍💻 reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
 
-## 🔧 Languages and Tools
+## Languages and Tools
 
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -29,7 +29,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
-## 📊  GitHub Metrics
+## GitHub Metrics
 <div align="center">
  <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipedeboni&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Filipe's GitHub Stats" />
@@ -40,6 +40,10 @@
 </div>
 
 <!--
+👨‍💻
+🔧 
+📊 
+✉️ 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.JS" height="40" style="vertical-align:top">
  &#8287; &#8287; &#8287;
