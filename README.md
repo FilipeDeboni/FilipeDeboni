@@ -1,4 +1,4 @@
-## Hello 👋 My name is <a href="https://www.linkedin.com/in/filipedeboni/"; target="_blank" color="2bbc8a"> Filipe Deboni </a> 
+## Hello 👋 My name is <a target="_blank" color="2bbc8a" href="https://www.linkedin.com/in/filipedeboni/"> Filipe Deboni </a> 
 I'm a Front-End Developer, currently based in São Paulo, Brazil.
 <br />
 <br />
