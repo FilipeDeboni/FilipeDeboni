@@ -4,10 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-filipedeboni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedeboni/)](https://www.linkedin.com/in/filipedeboni/)
 
 ## A Front-End Developer
-<samp> 📍 living in São Paulo, Brazil</samp>
-<samp> 🤓 a passionate lifelong lerner</samp>
-<samp> 📖 currently improving my skills on React.JS and Data Structures</samp>
-<samp> 😆 hobbies include traveling, biking, games and design </samp>
+<samp> 📍 living in São Paulo, Brazil
+ <br/>
+🤓 a passionate lifelong lerner
+ <br/>
+📖 currently improving my skills on React.JS and Data Structures
+ <br/>
+😆 hobbies include traveling, biking, games and design 
+</samp>
 
 ## Languages and Tools
 
