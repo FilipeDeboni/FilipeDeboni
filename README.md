@@ -1,8 +1,8 @@
-## Hello 👋 My name is <p style="font-color:2bbc8a;"> Filipe Deboni </p> 
+## Hello 👋 My name is Filipe Deboni
 I'm a Front-End Developer, currently based in São Paulo, Brazil.
 <br />
 <br />
-<p align="center">
+<p vertical-align="midle">
 Reach me on <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="20" style="vertical-align:top"></a>
 </p>
 
