@@ -29,13 +29,32 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
+<p align="center">
+ <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react.js" style="vertical-align:top; margin:6px 4px">
+ </a> 
+ <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="node.js" style="vertical-align:top; margin:6px 4px">
+  </a> 
+ 
+ </p>
+
 ## GitHub Metrics
 <div align="center">
- <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipedeboni&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Filipe's GitHub Stats" />
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedeboni&hide=html&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedeboni&hide=html&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipedeboni&show_icons=true&line_height=27&count_private=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Filipe's GitHub Stats" />
 </a>
 </div>
 
