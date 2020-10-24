@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm [Filipe Deboni](https://www.linkedin.com/in/filipedeboni/)
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
+[![Linkedin Badge](https://img.shields.io/badge/-filipedeboni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedeboni/)](https://www.linkedin.com/in/filipedeboni/)
 
 ## A Front-End Developer
 - 📍 currently based in São Paulo, Brazil
 - 🤓 a passionate lifelong lerner
 - 📖 improving my skills on React.JS and Data Structures
 - 😆 hobbies include traveling, biking, games and design 
-- 👨‍💻 reach me on [![Linkedin Badge](https://img.shields.io/badge/-filipedeboni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedeboni/)](https://www.linkedin.com/in/filipedeboni/)
 
 ## Languages and Tools
 
