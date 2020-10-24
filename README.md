@@ -1,5 +1,7 @@
+<p align="right">
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
+</p>
 ## Hello 👋 My name is Filipe Deboni
 I'm a Front-End Developer, currently based in São Paulo, Brazil.
 <br />
