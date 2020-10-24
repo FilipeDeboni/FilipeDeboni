@@ -15,7 +15,7 @@ I'm a Front-End Developer, currently based in São Paulo, Brazil.
 - ⚡ Fun fact: ...
 -->
 
-Reach me on <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="25" style="vertical-align:top; margin:4px"></a>
+Reach me on <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="20" style="vertical-align:top"></a>
 
 
 ## &#129520; Languages and Tools
