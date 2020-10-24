@@ -4,13 +4,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-filipedeboni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipedeboni/)](https://www.linkedin.com/in/filipedeboni/)
 
 ## A Front-End Developer
+<div>
+ <div>
 - 📍 living in São Paulo, Brazil
 - 🤓 a passionate lifelong lerner
 - 📖 currently improving my skills on React.JS and Data Structures
 - 😆 hobbies include traveling, biking, games and design 
-
+ </div>
+ <div>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
-
+ </div>
+ </div>
+ 
 ## Languages and Tools
 
 <p align="center">
