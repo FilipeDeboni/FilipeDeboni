@@ -6,7 +6,7 @@
 - 📍  currently based in São Paulo, Brazil
 - 🤓  a passionate lifelong lerner
 - 📖  improving my skills on React.JS and Data Structures
-- 😆  I'm very interested in subjects like travel, hiking, games and design 
+- 😆  very interested in subjects like travel, hiking, games and design 
 - ✉️  reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
 
 ## 🔧 Languages and Tools
