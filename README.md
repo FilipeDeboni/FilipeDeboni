@@ -1,3 +1,5 @@
+[![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
+![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 ## Hello 👋 My name is Filipe Deboni
 I'm a Front-End Developer, currently based in São Paulo, Brazil.
 <br />
@@ -5,8 +7,7 @@ I'm a Front-End Developer, currently based in São Paulo, Brazil.
 Reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="15" style="vertical-align:top"></a>
 </a>
 <br/>
-[![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
-![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
+
 
 <!--
 - 🔭 I’m currently working on ...
