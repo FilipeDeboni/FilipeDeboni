@@ -8,8 +8,6 @@ Reach me on  <a href="https://www.linkedin.com/in/filipedeboni/" target="_blank"
 [![Github](https://img.shields.io/github/followers/FilipeDeboni?label=Followers&logo=Github)](https://github.com/FilipeDeboni) 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FilipeDeboni.FilipeDeboni)
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou) ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) 
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
