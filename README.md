@@ -7,7 +7,7 @@
 - 📍 living in São Paulo, Brazil
 - 🤓 a passionate lifelong lerner
 - 📖 currently improving my skills on React.JS and Data Structures
-- 😆 hobbies include traveling, biking, games and design
+- 😆 hobbies include travel, bike, games and design
  
 ## Languages and Tools
 
