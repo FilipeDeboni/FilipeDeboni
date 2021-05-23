@@ -5,8 +5,8 @@
 
 ## A Front-End Developer
 - 📍 Brazil
-- 🤓 studying Analysis and Development of Systems
 - 🎓 Post-graduated in Cognitive Sciences and Interaction Design
+- 🤓 studying Analysis and Development of Systems (2nd graduation)
 - 🧘 hobbies include meditation, travel, bike, games and design
  
 ## Languages and Tools
