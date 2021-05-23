@@ -7,7 +7,7 @@
 - 📍 Brazil
 - 🎓 Post-graduated in Cognitive Sciences and Interaction Design
 - 🤓 studying Analysis and Development of Systems (2nd graduation)
-- 🧘 hobbies include meditation, travel, bike, games and design
+- 🧘 hobbies include bike, travel and games
  
 ## Languages and Tools
 
