@@ -5,16 +5,16 @@
 
 ## A Front-End Developer
 - 📍 Brazil
-- 🎓 Post-graduated in Cognitive Sciences and Interaction Design
+- 🎓 Post-graduated in Cognitive Sciences and Interaction Design 
 - 🤓 studying Analysis and Development of Systems (2nd graduation)
-- 🎮 hobbies include games, bike and travel
+- 🎮 hobbies include games, gym, travel and UX Design
  
 ## Languages and Tools
 
 <p align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
  &#8287; &#8287; &#8287;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  &#8287; &#8287; &#8287;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  &#8287; &#8287; &#8287;
